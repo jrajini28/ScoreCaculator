@@ -1,0 +1,8 @@
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\obj\Debug\BowlingScore.csprojResolveAssemblyReference.cache
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\bin\Debug\BowlingScore.exe.config
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\bin\Debug\BowlingScore.exe
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\bin\Debug\BowlingScore.pdb
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\bin\Debug\ScoreCaculator.dll
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\bin\Debug\ScoreCaculator.pdb
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\obj\Debug\BowlingScore.exe
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\BowlingScore\obj\Debug\BowlingScore.pdb

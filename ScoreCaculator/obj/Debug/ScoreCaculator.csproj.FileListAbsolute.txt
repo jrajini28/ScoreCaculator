@@ -1,0 +1,5 @@
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\ScoreCaculator\bin\Debug\ScoreCaculator.dll
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\ScoreCaculator\bin\Debug\ScoreCaculator.pdb
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\ScoreCaculator\obj\Debug\ScoreCaculator.dll
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\ScoreCaculator\obj\Debug\ScoreCaculator.pdb
+c:\users\z003u7py\documents\visual studio 2015\Projects\ScoreCaculator\ScoreCaculator\obj\Debug\ScoreCaculator.csprojResolveAssemblyReference.cache
